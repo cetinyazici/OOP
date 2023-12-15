@@ -10,4 +10,4 @@
 
 Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
-![resim](/üniversiteYönetimSistemi.png)
+![resim](ÜniversiteYönetimSistemiUMLDiyagramı/üniversiteYönetimSistemi.png)
